@@ -1,0 +1,2 @@
+ModelConverter
+bbmodelのGeneric modelを強制的にModded Entityへと変換します。
